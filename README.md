@@ -23,13 +23,11 @@ Samples:
 
 ### Software:
 
-bwa, samtools, iVar, nextclade (https://clades.nextstrain.org/)
+bwa, samtools, iVar, Nextclade (https://clades.nextstrain.org/)
 
-## Docker
+## Docker notes
 
 `docker run -it --entrypoint bash containerName`
 
-`> samtools`
-
-
 > nextflow version 24.04.4.5917
+> Docker version 20.10.12, build e91ed57
