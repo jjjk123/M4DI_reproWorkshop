@@ -3,7 +3,7 @@
 
 ###
 
-1. Map the reads to the ref genome
+1. Map the reads to the ref genome of SARS-Cov-2
 
 2. Call SNPs
 
@@ -23,8 +23,7 @@ Samples:
 
 ### Software:
 
-Samtools, iVar
-
+bwa, samtools, iVar, nextclade (https://clades.nextstrain.org/)
 
 ## Docker
 
@@ -33,4 +32,4 @@ Samtools, iVar
 `> samtools`
 
 
-nextflow version 24.04.4.5917
+> nextflow version 24.04.4.5917
