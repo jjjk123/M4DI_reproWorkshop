@@ -1,0 +1,1 @@
+command: ~/apps/nextflow run main.nf
